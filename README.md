@@ -3,19 +3,7 @@
 ## Project Overview
 The project aims to detect Twitter bots to stop the spread of false and misleading information. By analyzing both textual and numeric features, the system labels users as genuine or fake using various machine learning algorithms.
 
-## Authors
-- Anmol Satija  
-  CSE: AI & ML  
-  University of Petroleum and Energy Studies  
-  Bidholi, Dehradun  
-  Email: anmol.satija123@gmail.com
-
-- Shivangi Arora  
-  CSE: AI & ML  
-  University of Petroleum and Energy Studies  
-  Bidholi, Dehradun  
-  Email: shivangiarora424@gmail.com
-
+## Author
 - Omair Ansari  
   CSE: AI & ML  
   University of Petroleum and Energy Studies  
