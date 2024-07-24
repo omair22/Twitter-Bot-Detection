@@ -4,7 +4,7 @@
 The project aims to detect Twitter bots to stop the spread of false and misleading information. By analyzing both textual and numeric features, the system labels users as genuine or fake using various machine learning algorithms.
 
 ## Author
-- Omair Ansari  
+  Omair Ansari  
   CSE: AI & ML  
   University of Petroleum and Energy Studies  
   Bidholi, Dehradun  
